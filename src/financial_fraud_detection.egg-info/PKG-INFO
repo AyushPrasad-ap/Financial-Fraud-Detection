@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: financial-fraud-detection
+Version: 0.1.0
+Summary: End-to-end machine learning system for financial fraud detection
+Requires-Python: <3.13,>=3.12
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: jupyter
+Requires-Dist: ipykernel
+Requires-Dist: xgboost
+Requires-Dist: shap
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: pytest
