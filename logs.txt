@@ -2,7 +2,8 @@
 -- successfully configured all the setups and environment.
 
 23/09/26
--- defined the problem statement hence completing phase 1
+-- defined the problem statement -> hence completed phase 1
 -- downloaded the 2 required datasets - train_transaction & train_identity
 -- performed data audit in 01_data_audit.ipynb
--- generated data_audit report
+-- generated data_audit report -> hence completed phase 2
+-- built the make_dataset function which loads the 2 IEEE-CIS training datasets, merges them using TransactionID and saves the combined dataset -> hence completing phase 3
