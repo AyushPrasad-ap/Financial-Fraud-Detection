@@ -7,3 +7,5 @@
 -- performed data audit in 01_data_audit.ipynb
 -- generated data_audit report -> hence completed phase 2
 -- built the make_dataset function which loads the 2 IEEE-CIS training datasets, merges them using TransactionID and saves the combined dataset -> hence completing phase 3
+-- did chronological train/validation/test split of 70/15/15
+-- generated split_strategy report -> hence completing phase 3
