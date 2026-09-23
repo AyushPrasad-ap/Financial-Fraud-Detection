@@ -1,0 +1,3 @@
+- successfully configured all the setups and environment.
+
+- 
