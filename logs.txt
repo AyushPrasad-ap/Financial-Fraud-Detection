@@ -8,4 +8,20 @@
 -- generated data_audit report -> hence completed phase 2
 -- built the make_dataset function which loads the 2 IEEE-CIS training datasets, merges them using TransactionID and saves the combined dataset -> hence completing phase 3
 -- did chronological train/validation/test split of 70/15/15
--- generated split_strategy report -> hence completing phase 3
+-- generated split_strategy report -> hence completing phase 4
+
+24/09/26
+-- written cleaning related functions
+-- written tests for cleaning related functions.
+-- Validated tests using pytest. All passed.
+-- performed missing value analysis and documentated the findings in data_cleaning report
+
+25/09/26
+-- wrote 'duplicate' related reusable function in cleaning.py and generated corresponding tests for it in test_cleaning.py. All passed.
+-- performed duplicate value analysis and documentated the findings in data_cleaning report
+
+26/09/26
+-- performed outlier analysis for TransactionAmt
+-- analysed inconsistent data. Documented the (outlier, incconsistent data) findings in data_cleaning report. -> hence completed phase 5
+
+
